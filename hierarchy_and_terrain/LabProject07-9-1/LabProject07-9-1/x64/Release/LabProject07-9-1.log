@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\stdafx.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\stdafx.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'stdafx.cpp'을(를) 컴파일하는 중)
+  
+  Camera.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Camera.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Camera.cpp'을(를) 컴파일하는 중)
+  
+  GameFramework.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\GameFramework.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameFramework.cpp'을(를) 컴파일하는 중)
+  
+  LabProject07-9-1.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/LabProject07-9-1.cpp'을(를) 컴파일하는 중)
+  
+  Mesh.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Mesh.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Object.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Object.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Player.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Scene.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+  Shader.cpp
+  Timer.cpp
+  코드를 생성하고 있습니다.
+  24 of 383 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    49 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  LabProject07-9-1.vcxproj -> C:\3DGameProgramming\LabProject07-9-1\LabProject07-9-1\x64\Release\LabProject07-9-1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

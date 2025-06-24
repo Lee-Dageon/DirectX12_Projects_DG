@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\3DGameProgramming\\DirectX12_Project_DG\\DirectX12_LabProjects_DG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2DF7F8-84B4-44EA-852E-9CC5A87C7D46}|DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.vcxproj|C:\\3DGameProgramming\\DirectX12_Project_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A2DF7F8-84B4-44EA-852E-9CC5A87C7D46}|DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.vcxproj|solutionrelative:DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectX12_LabProjects_DG.cpp",
+              "DocumentMoniker": "C:\\3DGameProgramming\\DirectX12_Project_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp",
+              "RelativeDocumentMoniker": "DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp",
+              "ToolTip": "C:\\3DGameProgramming\\DirectX12_Project_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp",
+              "RelativeToolTip": "DirectX12_LabProjects_DG\\DirectX12_LabProjects_DG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T15:48:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
