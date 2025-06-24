@@ -1,0 +1,71 @@
+﻿  stdafx.cpp
+  Camera.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Camera.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Camera.cpp'을(를) 컴파일하는 중)
+  
+  LabProject11.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/LabProject11.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/LabProject11.cpp'을(를) 컴파일하는 중)
+  
+  GameFramework.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameFramework.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameFramework.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameFramework.cpp(361,57): warning C4244: '인수': 'WPARAM'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameFramework.cpp'을(를) 컴파일하는 중)
+  
+  GameObject.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  Mesh.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Mesh.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Player.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Player.cpp(557,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+  Shader.cpp
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\GameObject.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Shader.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Mesh.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Shader.cpp'을(를) 컴파일하는 중)
+  
+C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\Shader.cpp(289,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Shader.cpp'을(를) 컴파일하는 중)
+  
+  Timer.cpp
+  코드를 생성하고 있습니다...
+  LabProject11.vcxproj -> C:\3DGameProgramming\Direct12_LabProject_DG\LabProject11\x64\Debug\LabProject11.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

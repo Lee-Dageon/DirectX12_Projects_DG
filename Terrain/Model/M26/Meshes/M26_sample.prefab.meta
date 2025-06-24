@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af5d242dcd146f542bae746fb1df819c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4604
+  packageName: '#04 M26 Heavy Tank'
+  packageVersion: 1.01
+  assetPath: Assets/WW2_tank_Pack/M26/Meshes/M26_sample.prefab
+  uploadId: 0
